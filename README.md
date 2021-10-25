@@ -11,7 +11,7 @@ I feel that I did particularly well at writting the Investment class, and at cal
 
 * Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-I would have liked to use more output manipulators from the <iomanip> header file. I started to do it using setw but in the end it turned out to be much simpler for me to just code the output using literal strings. I could also enhance the code by writing a general purpose input validation function. I thought about doing this near the end of the project, but at that point it would have taken too much time and I would have had to rewrite large portions of the code. As it is now, there are input functions for each major variable.
+I would have liked to use more output manipulators from the iomanip header file. I started to do it using setw but in the end it turned out to be much simpler for me to just code the output using literal strings. I could also enhance the code by writing a general purpose input validation function. I thought about doing this near the end of the project, but at that point it would have taken too much time and I would have had to rewrite large portions of the code. As it is now, there are input functions for each major variable.
 
 * Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
